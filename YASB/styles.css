@@ -518,14 +518,14 @@
 
 /* Weather */
 .weather-widget {
-    padding: 0px 0px 0px 30px;
-    width: 80px;
+    padding: 0px 0px 0px 0px;
+    width: 55px;
     max-width: 80px;
-    min-width: 80px;
+    min-width: 0px;
 }
 .weather-widget .icon {
     font-size: 22px;
-    margin: 0px -15px 2px 0px;
+    margin: 0px 0px 2px 0px;
 }
 .weather-card {
     background-color: var(--yasb-background);
